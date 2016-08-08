@@ -3,6 +3,7 @@
 Fetching data related 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
 
 ### Usage
+Use command given below or provided 'run.bat' file.
 ```
 python uolbibliography.py --urlfile=uolbibliography-test.txt --mergedata
 ```
@@ -14,7 +15,7 @@ python uolbibliography.py --help
 
 ### Dependencies
 
-Check 'requirements.txt' files for details or use following command to install dependencies
+Check 'requirements.txt' files for details or use following command to install dependencies.
 ```
 pip install -r requirements.txt
 ```
