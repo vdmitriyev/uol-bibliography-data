@@ -1,0 +1,3 @@
+# dependencies of the crawler
+beautifulsoup4
+leather
