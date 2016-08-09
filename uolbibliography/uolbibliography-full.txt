@@ -43,3 +43,235 @@ http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&in
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20500
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20500
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=20500
+
+
+###############################################################
+# Fakultät 1 - Bildungs- und Sozialwissenschaften
+###############################################################
+
+# Institut für Pädagogik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=10100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=10100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=10100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=10100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=10100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=10100
+
+# Institut für Sonder- und Rehabilitationspädagogik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=10200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=10200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=10200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=10200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=10200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=10200
+
+# Institut für Sozialwissenschaften
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=10300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=10300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=10300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=10300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=10300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=10300
+
+
+###############################################################
+# Fakultät 3 - Sprach- und Kulturwissenschaften
+###############################################################
+
+# Institut für Anglistik / Amerikanistik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=30100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=30100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=30100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=30100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=30100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=30100
+
+# Institut für Germanistik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=30200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=30200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=30200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=30200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=30200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=30200
+
+# Institut für Musik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=30300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=30300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=30300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=30300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=30300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=30300
+
+# Institut für Niederlandistik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=30500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=30500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=30500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=30500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=30500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=30500
+
+# Institut für Slavistik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=30600
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=30600
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=30600
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=30600
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=30600
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=30600
+
+# Institut für Kunst und visuelle Kultur
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=30700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=30700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=30700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=30700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=30700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=30700
+
+# Institut für Materielle Kultur
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=30800
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=30800
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=30800
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=30800
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=30800
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=30800
+
+###############################################################
+# Fakultät 4 - Human- und Gesellschaftswissenschaften
+###############################################################
+
+# Institut für Evangelische Theologie und Religionspädagogik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=40100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=40100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=40100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=40100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=40100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=40100
+
+# Institut für Geschichte
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=40200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=40200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=40200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=40200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=40200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=40200
+
+# Institut für Philosophie
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=40300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=40300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=40300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=40300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=40300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=40300
+
+# Institut für Sportwissenschaft
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=40700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=40700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=40700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=40700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=40700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=40700
+
+###############################################################
+# Fakultät 5 - Mathematik und Naturwissenschaften
+###############################################################
+
+# Institut für Biologie und Umweltwissenschaften (IBU)
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=50100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=50100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=50100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=50100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=50100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=50100
+
+# Institut für Chemie und Biologie des Meeres (ICBM)
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=50200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=50200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=50200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=50200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=50200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=50200
+
+# Institut für Mathematik (IfM)
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=50300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=50300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=50300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=50300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=50300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=50300
+
+# Institut für Physik (IfP)
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=50400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=50400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=50400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=50400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=50400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=50400
+
+# Institut für Chemie (IfC)
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=50500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=50500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=50500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=50500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=50500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=50500
+
+###############################################################
+# Fakultät 6 - Medizin und Gesundheitswissenschaften
+###############################################################
+
+# Medizin und Gesundheitswissenschaften
+
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=60100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=60100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=60100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=60100
+
+# Department für Medizinische Physik und Akustik 
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=60200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=60200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=60200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=60200
+
+# Department für Psychologie
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=60300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=60300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=60300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=60300
+
+# Department für Neurowissenschaften
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=60400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=60400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=60400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=60400
+
+# Department für Versorgungsforschung
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=60500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=60500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=60500
+
+# Department für Humanmedizin
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=60700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=60700
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=60700
+
+###############################################################
+# Sonstige Einrichtungen
+###############################################################
+
+# Universitätsleitung und -verwaltung
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=90100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=90100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=90100
+
+# Zentrale Einrichtungen
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=90200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=90200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=90200
+
+# Wissenschaftliche Zentren
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=90300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=90300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=90300
+
+# Fakultätsleitung und -verwaltung
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=90400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=90400

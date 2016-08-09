@@ -4,4 +4,5 @@
 
 #Department für Informatik
 #http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=20100
-http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20100
+#http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20100
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=20200
