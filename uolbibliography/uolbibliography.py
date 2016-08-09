@@ -16,6 +16,7 @@ import uuid
 import json
 import codecs
 import locale
+import string
 import urllib2
 import argparse
 import collections
@@ -86,19 +87,31 @@ class BSCrawler():
         if urlfile:
              with codecs.open(urlfile, 'r', encoding='utf8') as f_urls:
                 for line in f_urls:
-                    doc = self.download_document(line.strip())
-                    data += self.process_uol_bibliography_tbl(doc)
-                    sleep(SLEEP_TIME_IN_SECONDS)
+                    stripped = line.strip()
+                    if not stripped.startswith('#') and not len(stripped) == 0 and stripped.startswith('http'):
+                        self.logger.info('[i] following URL is going to be parsed:\n {0}'.format(stripped))
+
+                        try:
+                            doc = self.download_document(stripped)
+                            data += self.process_uol_bibliography_tbl(doc)
+                            sleep(SLEEP_TIME_IN_SECONDS)
+                        except Exception as ex:
+                            self.logger.error('[e] exception: {0}, arguments: {1}'.format(ex.message, ex.args))
+
+                    # else:
+                    #     self.logger.info('[i] following URL was ignored:\n {0}'.format(stripped))
 
         if mergedata:
             csv = self.data_as_csv(data)
-            self.helper.save_file(os.path.join(self.work_dir, 'merged.csv'), csv)
+            self.helper.save_file(os.path.join(self.work_dir, 'uolbibliography-merged.csv'), csv)
 
     def download_document(self, url):
-        """
-            (obj,str) -> (str)
+        """ Downloading html page and storing inside string.
 
-            Downloading html page and storing inside string.
+        Args:
+            url: URL to be downloaded
+        Returns:
+            downloaded HTML
         """
 
         html = None
@@ -110,6 +123,19 @@ class BSCrawler():
             self.logger.error('[e] exception: {0}, arguments: {1}'.format(ex.message, ex.args))
 
         return html
+
+    def validate_file_name(self, file_name):
+        """ Removes all symbols that are not file name conform.
+
+        Args:
+            file_name: name of the file to be validated
+        Returns:
+            valid name of the file
+        """
+
+        valid_chars = '-_.() abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+        file_name = ''.join(c for c in file_name if c in valid_chars)
+        return file_name
 
     # def save_images(self, img_list, folder):
     #     """
@@ -223,7 +249,7 @@ class BSCrawler():
         # text data for debugging, uncomment if needed
         # self.helper.save_file(os.path.join(self.work_dir, output_file_name + '.html'), prettified_html)
         # self.helper.save_file(os.path.join(self.work_dir, output_file_name + '.txt'), text_from_html)
-        self.helper.save_file(os.path.join(self.work_dir, output_file_name + '.csv'), csv)
+        self.helper.save_file(os.path.join(self.work_dir, self.validate_file_name(output_file_name) + '.csv'), csv)
 
         return cleaned_data
 

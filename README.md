@@ -1,6 +1,6 @@
 ### About
 
-Fetching data related 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
+Fetching data related to the 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
 
 ### Usage
 Use command given below or provided 'run.bat' file.

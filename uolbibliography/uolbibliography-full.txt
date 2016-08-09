@@ -1,6 +1,45 @@
+###############################################################
+# Fakultät 2 - Informatik, Wirtschafts- und Rechtswissenschaften
+###############################################################
+
+# Department für Informatik
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=20100
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20100
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20100
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=20100
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=20100
 http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=20100
+
+# Department für Wirtschafts- und Rechtswissenschaften / Institut für Betriebswirtschaftslehre und Wirtschaftspädagogik
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=20200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=20200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=20200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=20200
+
+
+# Department für Wirtschafts- und Rechtswissenschaften / Institut für Ökonomische Bildung
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=20300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=20300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=20300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20300
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=20300
+
+
+# Department für Wirtschafts- und Rechtswissenschaften / Institut für Rechtswissenschaften
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=20400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=20400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=20400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20400
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=20400
+
+# Department für Wirtschafts- und Rechtswissenschaften / Institut für Volkswirtschaftslehre
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=20500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=20500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2013&inst=20500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20500
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2010&inst=20500
