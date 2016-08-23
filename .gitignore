@@ -1,4 +1,5 @@
 *.pyc
+uolbibliography/*.csv
 uolbibliography/logs/
 uolbibliography/generated/*
 uolbibliography/__temp__/*
