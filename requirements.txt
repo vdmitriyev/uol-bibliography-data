@@ -1,3 +1,6 @@
 # dependencies of the crawler
 beautifulsoup4
 leather
+langdetect
+langid
+pycountry

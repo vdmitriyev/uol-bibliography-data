@@ -2,7 +2,7 @@ import os
 import socket
 import logging
 
-def custom_logger(path_to_log_file=None):
+def custom_logger(path_to_log_file=None, logger_name=None):
     """ Configuring logger and setting proper path to file.
 
     Args:
@@ -12,8 +12,13 @@ def custom_logger(path_to_log_file=None):
         logger that is able to write to files and console at once
     """
 
+    if not logger_name:
+        logger_name = 'root'
+
+    print (logger_name)
+
     logFormatter = logging.Formatter("%(asctime)s [%(threadName)-12.12s] [%(levelname)-5.5s]  %(message)s")
-    rootLogger = logging.getLogger('root')
+    rootLogger = logging.getLogger(logger_name)
     rootLogger.setLevel(logging.DEBUG)
 
     if path_to_log_file is None:

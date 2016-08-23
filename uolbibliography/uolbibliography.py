@@ -39,10 +39,10 @@ except:
 finally:
     import helper_directory
     if helper_directory.__version__ != '1.0.0':
-        print 'Wrong version of the library {0}. Check the version'.format(helper_directory.__file__)
+        print ('Wrong version of the library {0}. Check the version'.format(helper_directory.__file__))
 
 # settings
-SLEEP_TIME_IN_SECONDS = 2
+SLEEP_TIME_IN_SECONDS = 4
 
 class BSCrawler():
     """ Crawling the HTML page and fetching data into table forms."""
@@ -178,24 +178,6 @@ class BSCrawler():
     #         else:
     #             self.logger.info('[i] this image is not found: {0}'.format(img_full_url))
 
-    def data_as_csv(self, data, size = 8):
-        """ Getting data as CSV. """
-
-        resulting_csv = ''
-        DELIMETER = '","'
-
-        # adding header
-        header_values = ['Fach', 'Autor/in', 'Titel', 'Typ', 'Meldetag', 'Punktzahl', ' ZahlOldenburgerAutoren', 'Jahr']
-        header_row = DELIMETER.join(header_values)
-        resulting_csv = '"' + header_row + '"' + '\n'
-
-        for row in data:
-            if len(row) == size:
-                csv_row = DELIMETER.join(self.decode_abbreviations(row))
-                resulting_csv +=  '"' + csv_row + '"' + '\n'
-
-        return resulting_csv
-
     def decode_abbreviations(self, row, size = 8, lang = 'DE'):
         """ Decoding particular abbreviations within given data. """
 
@@ -210,6 +192,23 @@ class BSCrawler():
 
         return row
 
+    def data_as_csv(self, data, size = 8):
+        """ Getting data as CSV. """
+
+        resulting_csv = ''
+        DELIMETER = '","'
+
+        # adding header
+        header_values = ['Fach', 'Autor/in', 'Titel', 'Typ', 'Meldetag', 'Punktzahl', ' ZahlOldenburgerAutoren', 'Jahr']
+        header_row = DELIMETER.join(header_values)
+        resulting_csv = '"' + header_row + '"' + '\n'
+
+        for row in data:
+            if len(row) == size:
+                csv_row = DELIMETER.join(value.replace('"', "") for value in self.decode_abbreviations(row))
+                resulting_csv +=  '"' + csv_row + '"' + '\n'
+
+        return resulting_csv
 
     def process_uol_graduated_phds(self, doc, output_file_name = None):
         """ Processing given HTML to extract graduated PhDs.
