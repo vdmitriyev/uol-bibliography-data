@@ -56,8 +56,21 @@ class UOLBibliographyDataCleaner:
         self.logger.info('Right amount of elements found')
         return True
 
-    def data_as_csv(self, data):
+    def data_as_csv(self, data, only_unique=False):
         """ Getting data as CSV. """
+
+        unique_data = []
+
+        if only_unique:
+            self.logger.info('Filtering out only uniques (Author + Publication)')
+            from sets import Set
+            uniques = Set()
+            for row in data:
+                next_publication = u'{0}:{1}'.format(row[1], row[2])
+                if next_publication not in uniques:
+                    uniques.add(next_publication)
+                    unique_data.append(row)
+
 
         resulting_csv = ''
         DELIMETER = '","'
@@ -78,6 +91,9 @@ class UOLBibliographyDataCleaner:
         header_row = DELIMETER.join(header_values)
         resulting_csv = '"' + header_row + '"' + '\n'
 
+        if len(unique_data) > 1:
+            data = unique_data
+
         required_size = len(header_values)
         for row in data:
             if len(row) == required_size:
@@ -96,7 +112,7 @@ class UOLBibliographyDataCleaner:
             data {list} -- data to be saved into CSV
         """
 
-        data_csv = self.data_as_csv(data)
+        data_csv = self.data_as_csv(data, only_unique=True)
 
         # saving to file
         _file = codecs.open(f_output, 'w', 'utf-8')
@@ -203,7 +219,10 @@ class UOLBibliographyDataCleaner:
                 if len(clean_row) > 0:
                     clean_data.append(clean_row)
 
-            # unique languages
+                if (index % 1000 == 0):
+                    self.logger.info('Processed total lines: {0}'.format(index))
+
+            # unique languages - for debugging
             # self.logger.info(unique_languages_v1)
             # self.logger.info(print_languages_ios_639(unique_languages_v1))
 
