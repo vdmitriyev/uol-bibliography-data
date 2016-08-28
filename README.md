@@ -1,6 +1,6 @@
 ### About
 
-Crawling data related to the 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
+Crawling, cleaning and visualizing data related to the 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
 
 ### Usage
 
@@ -16,8 +16,18 @@ python uolbibliography_cleaner.py --input=generated/uolbibliography-merged.csv -
 ```
 
 ### Help
+
+* Crawl
 ```
 python uolbibliography.py --help
+```
+* Clean
+```
+python uolbibliography_cleaner.py --help
+```
+* Visualize
+```
+python uolbibliography_plotter.py --help
 ```
 
 ### Dependencies
@@ -31,3 +41,4 @@ pip install -r requirements.txt
 #### Author
 
 * Viktor Dmitriyev
+
