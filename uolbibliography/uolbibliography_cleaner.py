@@ -67,7 +67,7 @@ class UOLBibliographyDataCleaner:
             uniques = Set()
             for row in data:
                 next_publication = u'{0}:{1}'.format(row[1], row[2])
-                if next_publication not in uniques:
+                if next_publication not in uniques and row[0] != u'%fach%':
                     uniques.add(next_publication)
                     unique_data.append(row)
 

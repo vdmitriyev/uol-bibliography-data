@@ -1,10 +1,10 @@
 ### About
 
-Fetching data related to the 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
+Crawling data related to the 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
 
 ### Usage
 
-Use command given below or provided 'run.bat' file.
+Use command given below or provided 'run_crawler.bat' file.
 
 ```
 python uolbibliography.py --urlfile=uolbibliography-test.txt --mergedata
