@@ -1,6 +1,6 @@
 ### About
 
-Crawling, cleaning and visualizing data related to the 'Hochschulbibliografie'(Universities Publication Bibliography) of UOL.
+Crawling, cleaning and visualizing data related to the 'Hochschulbibliografie'(University Publication Bibliography) of UOL.
 
 ### Usage
 

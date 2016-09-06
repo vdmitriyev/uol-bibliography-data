@@ -1,14 +1,14 @@
 # coding: utf-8
 #!/usr/bin/env python
 
-__author__     = "Viktor Dmitriyev"
-__copyright__ = "Copyright 2016, Viktor Dmitriyev"
-__credits__ = ["Viktor Dmitriyev"]
-__license__ = "MIT"
-__version__ = "1.0.0"
-__email__     = ""
-__status__     = "test"
-__date__    = "23.08.2016"
+__author__      = "Viktor Dmitriyev"
+__copyright__   = "Copyright 2016, Viktor Dmitriyev"
+__credits__     = ["Viktor Dmitriyev"]
+__license__     = "MIT"
+__version__     = "1.0.0"
+__email__       = ""
+__status__      = "test"
+__date__        = "23.08.2016"
 __description__ = "Cleaner for data of 'Hochschulbibliografie' (Universities Publication Bibliography) of UOL."
 
 import csv
