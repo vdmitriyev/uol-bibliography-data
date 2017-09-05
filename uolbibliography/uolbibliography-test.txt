@@ -7,4 +7,5 @@
 #http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2011&inst=20100
 #http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2015&inst=20200
 #http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2014&inst=10100
-http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20200
+#http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2012&inst=20200
+http://diglib.bis.uni-oldenburg.de/hsb/statistik/?page=hsb_institut&jahr=2016&inst=20200

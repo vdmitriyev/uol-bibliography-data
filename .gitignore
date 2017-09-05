@@ -2,6 +2,7 @@
 uolbibliography/*.csv
 uolbibliography/logs/
 uolbibliography/generated/*
+uolbibliography/generated*/*
 uolbibliography/__temp__/*
 uolbibliography/helper_directory.py
 uolbibliography/plots/
