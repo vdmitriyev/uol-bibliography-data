@@ -4,3 +4,4 @@ leather
 langdetect
 langid
 pycountry
+git+git://github.com/sckott/habanero.git#egg=habanero

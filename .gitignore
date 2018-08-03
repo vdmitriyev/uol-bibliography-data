@@ -4,5 +4,8 @@ uolbibliography/logs/
 uolbibliography/generated/*
 uolbibliography/generated*/*
 uolbibliography/__temp__/*
-uolbibliography/helper_directory.py
 uolbibliography/plots/
+uolbibliography/citations/
+uolbibliography/helper_directory.py
+uolbibliography/scholar.py
+uolbibliography/citation_tests.py
