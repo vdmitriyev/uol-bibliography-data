@@ -1,4 +1,7 @@
 *.pyc
+*.ck
+*.html
+*.txt
 uolbibliography/*.csv
 uolbibliography/logs/
 uolbibliography/generated/*

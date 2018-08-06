@@ -29,6 +29,10 @@ python uolbibliography_cleaner.py --help
 ```
 python uolbibliography_plotter.py --help
 ```
+* Crawl citations
+```
+python uolbibliography_citator.py --help
+```
 
 ### Dependencies
 
